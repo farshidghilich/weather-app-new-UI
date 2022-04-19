@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    direction: rtl;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* background-color: #bdc3c7; */
+}
+
+body{
+    margin: 0;
+    font-size: 16px;
+}
+a{
+    text-decoration: none;
+}
